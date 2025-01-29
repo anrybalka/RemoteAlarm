@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'ru.devmentalhydra.remotealarm'
+    namespace 'ru.anrybalka.remotealarm'
     compileSdk 33
 
     defaultConfig {
-        applicationId "ru.devmentalhydra.remotealarm"
+        applicationId "ru.anrybalka.remotealarm"
         minSdk 22
         targetSdk 33
         versionCode 20
