@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">1Remote Alarm v0.59</string>
+    <string name="about">При ошибках или багах пишите на anrybalka@ozon.ru</string>
+    <string name="status">Служба аудио-поиска активна</string>
+</resources>
