@@ -70,6 +70,12 @@ http://<ip>:4321/pass={dayOfMonth}ozonadmin&message={message}
 
 ## Разработка
 
+### Краткое описание структуры проекта
+- MainActivity: Основной экран приложения. Отображает IP-адрес и статус сервера.
+- AlarmServiceServer: Сервис, который обрабатывает входящие GET-запросы и запускает звуковой сигнал.
+- StartUpOnBootUpReceiver: BroadcastReceiver для автозапуска приложения при загрузке устройства.
+- StartUpOnUpgradeReceiver: BroadcastReceiver для запуска приложения после обновления.
+
 ### Зависимости
 
 - Android SDK.
